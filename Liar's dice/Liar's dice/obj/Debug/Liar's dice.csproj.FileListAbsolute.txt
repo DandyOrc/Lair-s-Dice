@@ -1,0 +1,14 @@
+C:\Users\wilhem.pantzar\source\repos\Liar's dice\Liar's dice\bin\Debug\Liar's dice.exe.config
+C:\Users\wilhem.pantzar\source\repos\Liar's dice\Liar's dice\bin\Debug\Liar's dice.exe
+C:\Users\wilhem.pantzar\source\repos\Liar's dice\Liar's dice\bin\Debug\Liar's dice.pdb
+C:\Users\wilhem.pantzar\source\repos\Liar's dice\Liar's dice\obj\Debug\Liar's dice.csprojAssemblyReference.cache
+C:\Users\wilhem.pantzar\source\repos\Liar's dice\Liar's dice\obj\Debug\Liar's dice.csproj.CoreCompileInputs.cache
+C:\Users\wilhem.pantzar\source\repos\Liar's dice\Liar's dice\obj\Debug\Liar's dice.exe
+C:\Users\wilhem.pantzar\source\repos\Liar's dice\Liar's dice\obj\Debug\Liar's dice.pdb
+C:\Users\wilhem.pantzar\Documents\Prodject (Visual Studio)\Liar's dice\Liar's dice\bin\Debug\Liar's dice.exe.config
+C:\Users\wilhem.pantzar\Documents\Prodject (Visual Studio)\Liar's dice\Liar's dice\bin\Debug\Liar's dice.exe
+C:\Users\wilhem.pantzar\Documents\Prodject (Visual Studio)\Liar's dice\Liar's dice\bin\Debug\Liar's dice.pdb
+C:\Users\wilhem.pantzar\Documents\Prodject (Visual Studio)\Liar's dice\Liar's dice\obj\Debug\Liar's dice.csprojAssemblyReference.cache
+C:\Users\wilhem.pantzar\Documents\Prodject (Visual Studio)\Liar's dice\Liar's dice\obj\Debug\Liar's dice.csproj.CoreCompileInputs.cache
+C:\Users\wilhem.pantzar\Documents\Prodject (Visual Studio)\Liar's dice\Liar's dice\obj\Debug\Liar's dice.exe
+C:\Users\wilhem.pantzar\Documents\Prodject (Visual Studio)\Liar's dice\Liar's dice\obj\Debug\Liar's dice.pdb
